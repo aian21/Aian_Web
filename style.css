@@ -32,6 +32,7 @@ header {
 header h1 {
 
 padding-top: 30px;
+padding-bottom: 20px;
 
 }
 
@@ -69,7 +70,7 @@ nav ul li a{
 main section {
 
     background-color: #f9f9f9;
-    margin: 10px;
+    margin: 15px;
     border-radius: 5px;
     padding: 20px;
 
@@ -89,7 +90,7 @@ main section p {
 main article {
 
     background-color: #f9f9f9;
-    margin: 10px;
+    margin: 15px;
     border-radius: 5px;
     padding: 20px;
 
@@ -109,7 +110,7 @@ main article p {
 main aside {
 
     background-color: #f0f0f0;
-    margin: 10px;
+    margin: 15px;
     border-radius: 5px 5px 5px 0px;
     padding: 20px;
     margin-bottom: 0px;
@@ -141,7 +142,7 @@ footer {
 
    
     background-color: #333;
-    margin: 0px 10px 10px 10px;
+    margin: 0px 15px 15px 15px;
     border-radius: 5px;
     padding: 10px 10px;
     color: white;
